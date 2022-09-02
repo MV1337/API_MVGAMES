@@ -4,7 +4,6 @@
 Uma API criado para mostrar alguns dos jogos mais jogados do momento. <br/>
 A API está pública, podendo ser acessados neste link - https://api-mv-games.herokuapp.com/api/games <br/>
 A API foi consumida neste projeto - https://front-mvgames.vercel.app/ <br/>
-CRUD 
 
 ## Tecnologias 
 

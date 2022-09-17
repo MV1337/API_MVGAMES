@@ -2,7 +2,7 @@
 
 ## API MV Games
 Uma API criado para mostrar alguns dos jogos mais jogados do momento. <br/>
-A API está pública, podendo ser acessados neste link - https://api-mv-games.herokuapp.com/api/games <br/>
+A API está pública, podendo ser acessados neste link - https://lmtech.dev.br/api/gamess <br/>
 A API foi consumida neste projeto - https://front-mvgames.vercel.app/ <br/>
 
 ## Tecnologias 
@@ -18,11 +18,11 @@ A API foi consumida neste projeto - https://front-mvgames.vercel.app/ <br/>
 ## Serviços utilizados
 
 * Github
-* Heroku
+* VPS DigitalOcean
 
 
  ## Links
-  - Deploy: https://api-mv-games.herokuapp.com/api/games
+  - Deploy: https://lmtech.dev.br/api/gamess
   
   ## Autores
 
